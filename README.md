@@ -1,2 +1,3 @@
 # Project5: Generate Faces
-Udacity's Generate Faces Project in Nanodegree Program
+Udacity's Generate Faces Project
+Deep Learning Nanodegree Program
